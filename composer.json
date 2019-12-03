@@ -1,0 +1,16 @@
+{
+    "name": "researchpanelasia/greeter-20150728",
+    "description": "Skill check for RPA engineer recruitment",
+    "require": {
+    },
+    "autoload": {
+        "psr-0": {
+            "MyGreeter": "lib/"
+        }
+    },
+    "authors": [
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^6.2"
+    }
+}
